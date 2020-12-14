@@ -1,4 +1,4 @@
-# artificial_neural_network-
+# Convolutional_Neural_Network-
 
     Open colab and in files tab select open notebook -> select github tab -> paste the github url
 
